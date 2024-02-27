@@ -1,2 +1,2 @@
-# Mikheil-Pachuashvili
+# Calculator
 IT Step - ფინალური დავალება - კალკულატორი.
